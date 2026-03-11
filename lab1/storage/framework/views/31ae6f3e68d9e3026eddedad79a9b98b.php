@@ -1,0 +1,1 @@
+<h1>Đây là trang chủ</h1><?php /**PATH C:\PHP3\la1\resources\views/index.blade.php ENDPATH**/ ?>
