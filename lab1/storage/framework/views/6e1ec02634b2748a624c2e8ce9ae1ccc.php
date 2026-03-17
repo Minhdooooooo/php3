@@ -1,0 +1,1 @@
+<h1>Trang liên hệ</h1><?php /**PATH C:\PHP3\la1\resources\views/lienhe.blade.php ENDPATH**/ ?>
